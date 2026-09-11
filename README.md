@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Bhanuka Kirinde 👋
+# Hey, its Banuca👋
 
 ### I build practical open-source tools for people working with AI, automation, and messy systems.
 
