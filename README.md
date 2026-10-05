@@ -1,8 +1,6 @@
-# Hey, I'm Banuca 👋
+### hey, it's banuca👋
 
-I build tools for my own use and share them in case someone else finds them useful.
-
-Mostly AI tools, desktop utilities, and automation. I like software design inspired by nature.
+building tools to improve everyday work | ms power platform solutions architect by day | inspired by nature, bringing its ideas into software..
 
 ## Projects
 
