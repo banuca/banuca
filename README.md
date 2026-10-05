@@ -2,7 +2,7 @@
 
 building tools to improve everyday work | ms power platform solutions architect by day | inspired by nature, bringing its ideas into software..
 
-## Projects
+### Projects
 
 - 🐝 **[honeybee](https://github.com/banuca/honeybee)** - a desktop widget for keeping track of Claude Code and Codex sessions, alerts, and usage limits.
 - 🟢 **[Agent Tab Lights](https://github.com/banuca/agent-tab-lights)** - see when an AI agent is working, finished, or needs you, right in the browser tab.
