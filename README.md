@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, its Banuca👋
+### hey, its banuca👋
 
-### I build practical open-source tools for people working with AI, automation, and messy systems.
+### building tools for personal use and hopefully someone else also finds value in it.. i like the idea of software design inspired by nature! 
 
 [![Explore my repositories](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/banuca?tab=repositories)
 [![Follow @banuca](https://img.shields.io/badge/Follow_@banuca-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/banuca)
